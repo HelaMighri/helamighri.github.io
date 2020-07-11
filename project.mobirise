@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hala",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2675,7 +2675,7 @@
     },
     "page3.html": {
       "settings": {
-        "title": "Blog",
+        "title": "Blog - المدونة",
         "meta_descr": "Blog\nالمدونة\n",
         "header_custom": "",
         "footer_custom": "",
