@@ -1414,7 +1414,7 @@ section.lazy-placeholder:after {
 .cid-s3PyQQaLpI {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #ff7f9f;
+  background-color: #ff7fac;
 }
 .cid-s3PyQQaLpI .form-text {
   color: #767676;
@@ -3040,100 +3040,6 @@ section.lazy-placeholder:after {
 .cid-s4sBuNlJR6 .nav-link:hover,
 .cid-s4sBuNlJR6 .dropdown-item:hover {
   color: #000000 !important;
-}
-.cid-s4EaoS0XLr {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-s4EaoS0XLr h2 {
-  text-align: center;
-}
-.cid-s4EaoS0XLr h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-s4EaoS0XLr p {
-  color: #767676;
-}
-.cid-s4EaoS0XLr img {
-  object-fit: cover;
-}
-.cid-s4EaoS0XLr .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-s4EaoS0XLr .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-s4EaoS0XLr .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-}
-.cid-s4EaoS0XLr .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-s4EaoS0XLr .card-title {
-  font-weight: 500;
-}
-.cid-s4EaoS0XLr .card-img {
-  text-align: inherit;
-}
-.cid-s4EaoS0XLr .card-img span {
-  font-size: 48px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-s4EaoS0XLr .mbr-figure {
-    padding-right: 2rem;
-    padding-left: 2rem;
-    height: 100%;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s4EaoS0XLr .mbr-figure {
-    padding-bottom: 2rem;
-    padding-top: 1rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-s4EaoS0XLr .block-content {
-    flex-direction: row;
-    -webkit-flex-direction: row;
-    text-align: center;
-  }
-  .cid-s4EaoS0XLr .block-content .card {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-  }
-  .cid-s4EaoS0XLr .card:nth-child(1) {
-    padding-bottom: 0!important;
-  }
-}
-.cid-s4EaxBkxQl {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-s4EaxBkxQl .mbr-text {
-  color: #767676;
-}
-.cid-s4EaxBkxQl .mbr-text p {
-  background: #ffffff;
-}
-.cid-s4EayvR5O6 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-s4EayvR5O6 .mbr-text {
-  color: #767676;
 }
 .cid-s4sBuQ6Nji {
   padding-top: 15px;
