@@ -1205,7 +1205,7 @@ section.lazy-placeholder:after {
 }
 .cid-s3Pq9FMUgj .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #b0ed73;
+  background: #c9f49e;
   margin-left: 2rem;
 }
 .cid-s3Pq9FMUgj .timeline-text-content p {
@@ -1216,7 +1216,7 @@ section.lazy-placeholder:after {
 }
 .cid-s3Pq9FMUgj .time-line-date-content p {
   padding: 2rem 2.5rem;
-  background: #b0ed73;
+  background: #c9f49e;
   float: right;
 }
 .cid-s3Pq9FMUgj .timeline-element {
@@ -1265,7 +1265,7 @@ section.lazy-placeholder:after {
   border-radius: 50%;
   font-size: 30px;
   display: inline-block;
-  background-color: #b0ed73;
+  background-color: #c9f49e;
   top: 20px;
   margin-left: -10px;
 }
@@ -1275,7 +1275,7 @@ section.lazy-placeholder:after {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #b0ed73;
+  background-color: #c9f49e;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
